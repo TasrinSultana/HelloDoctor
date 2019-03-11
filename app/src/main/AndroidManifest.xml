@@ -20,6 +20,10 @@
         <activity android:name=".MedicalDepartment" />
         <activity android:name=".EyeDepartment" />
         <activity android:name=".BrainDepartment" />
+<<<<<<< HEAD
+        <activity android:name=".SkinDepartment"></activity>
+=======
+>>>>>>> master
     </application>
 
 </manifest>
