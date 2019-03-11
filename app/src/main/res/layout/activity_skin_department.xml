@@ -14,10 +14,10 @@
         android:layout_alignParentTop="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor3"
         android:text="@string/button_EyeD1"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
         />
 
     <Button
@@ -28,10 +28,10 @@
         android:layout_centerVertical="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor2"
         android:text="@string/button_EyeD2"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
         />
 
     <Button
@@ -42,10 +42,10 @@
         android:layout_alignParentStart="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor"
         android:text="@string/button_EyeD3"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
         />
 
 
@@ -57,10 +57,10 @@
         android:layout_alignParentEnd="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor1"
         android:text="@string/button_FemaleD1"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
         />
 
     <Button
@@ -71,10 +71,10 @@
         android:layout_alignParentTop="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor4"
         android:text="@string/button_EarD2"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
 
         />
 
@@ -86,10 +86,10 @@
         android:layout_centerVertical="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:background="@color/colormediumaquamarine"
         android:drawableTop="@drawable/doctor5"
         android:text="@string/button_EarD1"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorIndigo"
+        android:background="@color/colorThistle"
         />
 
 
